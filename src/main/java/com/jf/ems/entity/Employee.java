@@ -16,6 +16,7 @@ public class Employee
     private Date empBirthDate;
     private String empDepartment;
 
+    public Employee(){}
 
     public Employee( String empFirstName, String empLastName, Date empBirthDate, String empDepartment )
     {
